@@ -1,0 +1,1 @@
+# Celery Configration with django
